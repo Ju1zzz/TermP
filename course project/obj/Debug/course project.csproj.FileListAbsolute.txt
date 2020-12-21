@@ -1,0 +1,10 @@
+C:\Users\julia\source\repos\course project\course project\bin\Debug\course project.exe.config
+C:\Users\julia\source\repos\course project\course project\bin\Debug\course project.exe
+C:\Users\julia\source\repos\course project\course project\bin\Debug\course project.pdb
+C:\Users\julia\source\repos\course project\course project\obj\Debug\course project.csprojAssemblyReference.cache
+C:\Users\julia\source\repos\course project\course project\obj\Debug\course_project.Form1.resources
+C:\Users\julia\source\repos\course project\course project\obj\Debug\course_project.Properties.Resources.resources
+C:\Users\julia\source\repos\course project\course project\obj\Debug\course project.csproj.GenerateResource.cache
+C:\Users\julia\source\repos\course project\course project\obj\Debug\course project.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\course project\course project\obj\Debug\course project.exe
+C:\Users\julia\source\repos\course project\course project\obj\Debug\course project.pdb
